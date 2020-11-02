@@ -2,6 +2,10 @@
 
 ## Use this script to auto create an HTML Overlay based our your Variant Sets in your scene
 
+### VRED-autoGenerateHTMLOverlay:
+Auto Generate an HTML Overlay based on your Variants in your VRED Scene
+![](VRED-autoGenerateHTMLOverlay.gif)
+
 Do you want to inprove the Usabilty of your VRED scene? Do you want to give direct access to most important Variant Sets?
 You have no idea how to use HTML or pyhton? ;)
 
