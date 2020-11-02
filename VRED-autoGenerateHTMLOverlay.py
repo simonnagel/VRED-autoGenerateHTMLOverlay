@@ -52,7 +52,7 @@ buttons = ''.join(arrayButton)
 jsFuncs = ''.join(arrayJsFunc)
 varSetss =''.join(arrayVarSet)
 
-url = '<html>\n<body>\n<div>\n'+buttons+' \n</div> \n<script>\n'+jsFuncs+'\n</script>\n</body>\n</html>'
+url = '<html>\n<body style="overflow:hidden;">\n<div>\n'+buttons+' \n</div> \n<script>\n'+jsFuncs+'\n</script>\n</body>\n</html>'
 
 #add URL to sceneplate
 allSceneplates = vrSceneplateService.getAllSceneplates()
